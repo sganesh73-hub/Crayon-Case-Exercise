@@ -1,0 +1,7 @@
+C:\Users\gsubram4\documents\visual studio 2015\Projects\Crayon.Test.Case\Crayon.ExternalServices\bin\Debug\Crayon.ExternalServices.dll
+C:\Users\gsubram4\documents\visual studio 2015\Projects\Crayon.Test.Case\Crayon.ExternalServices\bin\Debug\Crayon.ExternalServices.pdb
+C:\Users\gsubram4\documents\visual studio 2015\Projects\Crayon.Test.Case\Crayon.ExternalServices\bin\Debug\RestSharp.dll
+C:\Users\gsubram4\documents\visual studio 2015\Projects\Crayon.Test.Case\Crayon.ExternalServices\bin\Debug\RestSharp.xml
+C:\Users\gsubram4\documents\visual studio 2015\Projects\Crayon.Test.Case\Crayon.ExternalServices\obj\Debug\Crayon.ExternalServices.csprojResolveAssemblyReference.cache
+C:\Users\gsubram4\documents\visual studio 2015\Projects\Crayon.Test.Case\Crayon.ExternalServices\obj\Debug\Crayon.ExternalServices.dll
+C:\Users\gsubram4\documents\visual studio 2015\Projects\Crayon.Test.Case\Crayon.ExternalServices\obj\Debug\Crayon.ExternalServices.pdb
