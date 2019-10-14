@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crayon.WebApi", "Crayon.WebApi\Crayon.WebApi.csproj", "{F5E97FE4-FCBF-4F78-9189-84876A4F2269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crayon.ExternalServices", "Crayon.ExternalServices\Crayon.ExternalServices.csproj", "{28199461-EFE1-4BDC-A342-601C17F80580}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5E97FE4-FCBF-4F78-9189-84876A4F2269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5E97FE4-FCBF-4F78-9189-84876A4F2269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5E97FE4-FCBF-4F78-9189-84876A4F2269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5E97FE4-FCBF-4F78-9189-84876A4F2269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28199461-EFE1-4BDC-A342-601C17F80580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28199461-EFE1-4BDC-A342-601C17F80580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28199461-EFE1-4BDC-A342-601C17F80580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28199461-EFE1-4BDC-A342-601C17F80580}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
